@@ -14,7 +14,7 @@ Building the best model to classify the species of an Iris flower based on its p
 3. **Understanding the relationships between features and their impact on model accuracy**
 
 
-### Methodolgy
+### Methodology
 1. **Load Data form [scikit-learn](https://scikit-learn.org/1.5/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris) library**
 
 2. **Exploratory Data Analysis (EDA)**
